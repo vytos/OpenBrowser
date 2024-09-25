@@ -16,8 +16,20 @@ Clone the repository and follow these instructions to build and run OpenBrowser:
 ```bash
 git clone https://github.com/vytos/OpenBrowser.git
 cd OpenBrowser
-# Add build and run instructions here
+npm install
+npm start
+```
+## Technologies Used
+- **Electron**: Framework for building cross-platform desktop apps with web technologies.
+- **HTML/CSS/JavaScript**: Core technologies used to build the user interface.
 
+## Contribution
+Contributions are welcome! Feel free to open issues or submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## Contributing
-Contributions are welcome! Feel free to submit pull requests or create issues for suggestions or bug reports.
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any questions or feedback, feel free to reach out via GitHub or Discord.
+
+- Discord: **vytisgg**
